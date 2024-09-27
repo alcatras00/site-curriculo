@@ -3,4 +3,17 @@
 width: 200px;
 
 }
+.container {
+    border: 2px solid #3498db; /* Borda azul */
+    border-radius: 10px; /* Bordas arredondadas */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Sombra */
+    padding: 20px; /* Espaçamento interno */
+    margin: 20px; /* Margem externa */
+}
+
+.img-profile {
+    max-width: 100%; /* Responsividade da imagem */
+    border-radius: 50%; /* Imagem circular */
+}
+
 
